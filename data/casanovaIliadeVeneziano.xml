@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Casanova, Iliade di Omero in veneziano</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Sample for the Euporia Project</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Giacomo Casanova, <hi>Iliade di Omero in veneziano tradotta in ottava rima</hi>, a cura di
+                    Albert Gardin, trascrizione e redazione dell’apparato a cura di Federico
+                    Boschetti, presentazione di Mario Geymonat, Venezia, Editoria Universitaria,
+                    2005</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="book" n="1">
+                <p>Dell’Iliade d’Omero<lb/> tradotta in veneziano </p>
+                <p>Canto primo</p>
+                <p>Preci, peste<lb/> ingiustizie e regii sdegni </p>
+                <p>Sentenza del canto<lb/>
+                    <hi>A ministri di dei si dee rispetto</hi>
+                </p>
+                <lg n="1.0">
+                    <head>ARGOMENTO</head>
+                    <l n="1.0.1">Per Criseida da peste il greco è infetto.</l>
+                    <l n="1.0.2">La rende Atride; ma Briseida al figlio</l>
+                    <l n="1.0.3">Di Teti toglie. Achille di dispetto</l>
+                    <l n="1.0.4">Arde; e la Madre a greci aspro periglio</l>
+                    <l n="1.0.5">Da Giove ottien. Giuno a sviar l’effetto</l>
+                    <l n="1.0.6">Il Dio rimbrotta nel divin consiglio;</l>
+                    <l n="1.0.7">Giove si sdegna. È da Vulcan placata.</l>
+                    <l n="1.0.8">Ebria va a letto l’immortal brigata</l>
+                </lg>
+                <lg n="1.1">
+                    <l n="1.1.1">Gran Dea, che, co volè, sè tanto cara,</l>
+                    <l n="1.1.2">Del gran fio de Pelèo cantè la bile,</l>
+                    <l n="1.1.3">Colera rovinosa, orrenda, amara,</l>
+                    <l n="1.1.4">Despetto atroce dell’ardente Achille.</l>
+                    <l n="1.1.5">Cantè quanto quell’ira ha costà cara</l>
+                    <l n="1.1.6">A l’aneme de mille Eroi, e mille</l>
+                    <l n="1.1.7">Morti, e all’orrido inferno condannài</l>
+                    <l n="1.1.8">Da Cani, e Corvi i corpi devorai.</l>
+                </lg>
+                <lg n="1.2">
+                    <l n="1.2.1">Quando che penso a quella gran rovina</l>
+                    <l n="1.2.2">Son sforzà a dir che Dio cusì ha volesto,</l>
+                    <l n="1.2.3">Perchè, sibèn che l’Omo ha mente fina</l>
+                    <l n="1.2.4">Quando che el vol far mal a quello, e a questo,</l>
+                    <l n="1.2.5">Non ostante el se calma, e nol combina</l>
+                    <l n="1.2.6">Un cumolo de guai tanto funesto.</l>
+                    <l n="1.2.7">Donca è stà causa un Dio. Musa sincera</l>
+                    <l n="1.2.8">Disène in cortesia sto Dio chi el gera.</l>
+                </lg>
+                <lg n="1.3">
+                    <l n="1.3.1">Sto Dio Febo l’è stà fio de Latona,</l>
+                    <l n="1.3.2">E de quello che fa piover tempesta,</l>
+                    <l n="1.3.3">Che fa sioni, e bissabove, e tona.</l>
+                    <l n="1.3.4">Agamenon ingiuria manifesta</l>
+                    <l n="1.3.5">Fa a Crise, e no respetta la persona;</l>
+                    <l n="1.3.6">Crise che è prete, e che gh’ha bona testa,</l>
+                    <l n="1.3.7">Apella a Febo, e Febo dà sentenza,</l>
+                    <l n="1.3.8">Che i greghi abbia a soffrir la pestilenza.</l>
+                </lg>
+                <lg n="1.4">
+                    <l n="1.4.1">L’istoria è questa. Sto Pre’ Crise ariva,</l>
+                    <l n="1.4.2">E dreto el va verso l’armada achèa,</l>
+                    <l n="1.4.3">Che in fazza a Troia unita se tegniva</l>
+                    <l n="1.4.4">In tende, e in barche in porto de Sigèa.</l>
+                    <l n="1.4.5">Pivial sacerdotesco el coverziva,</l>
+                    <l n="1.4.6">Scettro el portava, e corona d’Altèa,</l>
+                    <l n="1.4.7">Verde, lustra, e de lavrano contesta,</l>
+                    <l n="1.4.8">Come Apollo so Dio la porta in testa.</l>
+                </lg>
+                <lg n="1.5">
+                    <l n="1.5.1">Copia de preziossimi regali</l>
+                    <l n="1.5.2">Porta con lu sto vecchio venerando</l>
+                    <l n="1.5.3">Erbe, recami, stoffe, e minerali,</l>
+                    <l n="1.5.4">E tutto l’offre ai greghi rescatando</l>
+                    <l n="1.5.5">So fia, che presoniera molti mali</l>
+                    <l n="1.5.6">Deve soffrir in quel penoso bando.</l>
+                    <l n="1.5.7">A Menelao el s’inchina, a Agamenon,</l>
+                    <l n="1.5.8">A quei Rè tutti, e el fa sto bel sermon.</l>
+                </lg>
+                <lg n="1.6">
+                    <l n="1.6.1">Agamenon, esempio de valor,</l>
+                    <l n="1.6.2">Prèncipi, che se quà vaghi de gloria,</l>
+                    <l n="1.6.3">Prego i Dei, che i v’accorda el so favor,</l>
+                    <l n="1.6.4">Che no combattè mai senza vittoria.</l>
+                    <l n="1.6.5">Possieu tornar in Grecia con onor</l>
+                    <l n="1.6.6">Dopo Troia destrutta, e vera istoria</l>
+                    <l n="1.6.7">Ve celebri de l’Asia vincitori,</l>
+                    <l n="1.6.8">E dei Troiani abbiè tutti i tesori.</l>
+                </lg>
+                <lg n="1.7">
+                    <l n="1.7.1">Se pietà nei cuor vostri ha mai lozà,</l>
+                    <l n="1.7.2">Se per el Dio, che servo avè respetto,</l>
+                    <l n="1.7.3">Se avè reguardo per la vecchia età,</l>
+                    <l n="1.7.4">E se savè cos’è paterno affetto,</l>
+                    <l n="1.7.5">Se sentimenti avè d’umanità,</l>
+                    <l n="1.7.6">Anemo eccelso, e sensi eroici in petto,</l>
+                    <l n="1.7.7">Esaudì generosi una preghiera,</l>
+                    <l n="1.7.8">E rendeme una cara presoniera.</l>
+                </lg>
+                <lg n="1.8">
+                    <l n="1.8.1">Sta cara presoniera xe mia fia,</l>
+                    <l n="1.8.2">Criseida dei mi dì dolce sostegno.</l>
+                    <l n="1.8.3">Acettè sti presenti in cortesia,</l>
+                    <l n="1.8.4">Che de bon cuor a rasegnarve vegno:</l>
+                    <l n="1.8.5">Che i serva a rescatarla, e cha la sia</l>
+                    <l n="1.8.6">Remessa in le mie man, e in altro regno,</l>
+                    <l n="1.8.7">Che la vegna con mi che son so Pare,</l>
+                    <l n="1.8.8">E che tante ho versà lagreme amare.</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>

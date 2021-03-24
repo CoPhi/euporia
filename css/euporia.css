@@ -1,0 +1,114 @@
+/*
+span.line{
+    display: block;
+    width: 32px;
+    text-align: right;
+    float: left;
+    padding-right: 10px;
+}
+*/
+p{
+    margin:0;
+}
+td.text{
+    text-align:left;
+    vertical-align:top;
+    border: solid lightgray;
+}
+td.anno{
+    text-align:left;
+    vertical-align:top;
+    border: solid lightgray;
+}
+div{
+    display: block;
+    overflow: auto;
+}
+div.sp{
+    overflow-y: scroll;
+    text-align:left;
+    display: block;
+    width:480px;
+}
+div.anno{
+  text-align:left;
+  display: block;
+  width:960px;
+  word-wrap: break-word;
+}
+span{
+    
+}
+span.num1{
+    color: red;
+}
+span.num2{
+    color: brown;
+    font-weight: bold;
+}
+span.num3{
+    color: blue;
+    font-weight: bold;
+}
+span:after{
+    content: \u0020;
+}
+span.speaker{
+    font-weight: bold;
+}
+.para{}
+.s{
+    color: red;
+}
+.add{
+    font-weight: bold;
+}
+.del{
+    font-weight: bold;
+}
+.chapter{}
+.section{
+    font-size: 130%;
+    font-weight: bold;
+}
+.head{
+    font-size: 150%;
+    font-weight: bold;
+}
+.num{}
+.quote{
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-style: italic;
+}
+.l{}
+.castList{
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-style: italic;
+}
+.castItem{}
+.role{
+    color: blue;
+}
+.sp{
+}
+.speaker{
+    font-weight: bold;
+    color:blue;
+    font-style: italic;
+}
+.p{
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+span.cit{
+    color:brown;
+}
+.persName{}
+.name{}
+.foreign{}
+.list{}
+.item{}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Annotations</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>CoPhiLab Euporia</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Euporia parsed annotations</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div n="1.3"><p>* 1 . 3 . 1 Febo : #god </p></div><div n="1.0"><p>* 1 . 0 . 1 Criseida : #name Criseida is_daughter_of Crise . </p></div><div n="1.1"><p>* 1 . 1 . 1 Achille : #person Achille is_son_of Pelèo . * 1 . 1 . 2 Pelèo : #person * 1 . 1 . 8 Cani : #animal this has_lemma cane . * 1 . 1 . 8 Corvi : #animal this has_lemma corvo . </p></div><div n="1.2"><p>* 1 . 2 . 1 Dio : #god this denotes Zeus . </p></div><div n="1.4"><p>* 1 . 4 . 3 Troia : #city </p></div></body>
+  </text>
+</TEI>

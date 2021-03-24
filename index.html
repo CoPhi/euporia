@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" data-template="templates:surround" data-template-with="templates/page.html" data-template-at="content">
+    <div class="col-md-9">
+        <a target="_blank" href="index.xql">
+            <h1 data-template="config:app-title">Euporia</h1>
+        </a>
+        <div class="alert alert-success">
+            <p>
+                <a target="_blank" href="index.xql">
+                    <img src="data/images/vulpes_et_gruis.png" width="80" height="80"/>
+                </a>
+                <br/>
+            </p>
+            <p>
+            <h3>Presentation</h3>
+            Euporia is an annotation tool based on Domain Specific Languages (DSLs). You can create the Context-Free Grammar for your DSL and generate the parser for your language. Your grammar must be named <code>Euporia</code> and the starting rule must be <code>start</code>.</p>
+            
+            <p>
+            <h3>Instructions</h3>
+            The current version of Euporia is an applet for <a href="http://exist-db.org/">eXist-db 5.3.0</a>. Install the <a href="https://hub.docker.com/r/existdb/existdb/tags">docker for eXist-db</a>a&gt; and upload your <a href="https://cophilab.ilc.cnr.it/euporia/euporia-0.1.xar">euporia-0.1.xar</a> file through the eXist-db Package Manager.<br/>
+            Write your grammar as a <code>.g4</code> <a target="_blank" href="https://www.antlr.org/">ANTL4</a> grammar with parser and lexer in the same document, and then copy and paste it into the <a target="_blank" href="https://cophilab.ilc.cnr.it/parseForge">Parser Forge</a>, in order to create the parser. Dowload the generated <code>euporia.js</code> file and upload it into the <code>js/euporia</code> folder by overriding the file with the same name.</p>
+            <p>Through the <a target="_blank" href="../eXide/index.html">eXist-db IDE</a>a, upload your <code>.xml</code> files into the <code>data</code> folder and customize the <code>index.xql</code> and <code>dbmanager.xql</code> files.</p>
+            <p>If you want start annotating, be sure to be logged into eXist-db and open the <a target="_blank" href="index.xql">Annotation Panel</a>.</p>
+            <p>
+                <h3>Applications</h3>
+                <ul>
+                    <li>
+                        <a target="_blank" href="index.xql">Annotation Panel</a>
+                    </li>
+                    <li>
+                        <a target="_blank" href="https://cophilab.ilc.cnr.it/parseForge">Parser Forge</a>
+                    </li>
+                    <li>
+                        <a target="_blank" href="../eXide/index.html">eXist-db IDE</a>
+                    </li>
+                </ul>   
+            </p>
+        </div>
+    </div>
+</div>

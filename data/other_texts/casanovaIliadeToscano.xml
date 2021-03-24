@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Casanova, Iliade di Omero in idioma toscano</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Sample for the Euporia Project</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Giacomo Casanova, <hi>Iliade di Omero in idioma toscano</hi>,
+                    riproduzione integrale dell’edizione Modesto Fenzo 1775-1778,
+                    a cura di Albert Gardin, prefazione di Mario Geymonat,
+                    Venezia, Editoria Universitaria, 2007
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="book" n="1">
+                <p>DELL’<lb/> ILIADE DI OMERO<lb/>
+                </p>
+                <p>CANTO PRIMO.</p>
+                <p>A’ ministri di Dio si de’ rispetto.</p>
+                <p>MATERIA.<lb/>
+                    <hi>Preci, peste, ingiustizie, e regi sdegni.</hi>
+                </p>
+                <lg n="1.0">
+                    <head>ARGOMENTO</head>
+                    <l n="1.0.1">Da peste per Criseida il campo è infetto;</l>
+                    <l n="1.0.2">La rende Atride; ma di Teti al figlio</l>
+                    <l n="1.0.3">Briseida toglie, ond’egli n’ha dispetto.</l>
+                    <l n="1.0.4">La Dea da Giove ottien, ch’aspro periglio</l>
+                    <l n="1.0.5">Soffran gli Achei: Giuno, a sviar l’effetto,</l>
+                    <l n="1.0.6">Il Dio rabbuffa nel divin consiglio;</l>
+                    <l n="1.0.7">L’irrita Giove: È da Vulcan placata.</l>
+                    <l n="1.0.8">Ebbra va a letto l’immortal brigata.</l>
+                </lg>
+                <lg n="1.1">
+                    <l n="1.1.1">Canta d’Achille, o Dea, l’orrendo sdegno,</l>
+                    <l n="1.1.2">Che fatal danneggiò le greche schiere,</l>
+                    <l n="1.1.3">E che tante di Pluto all’atro regno</l>
+                    <l n="1.1.4">Scender fe’ innanzi tempo alme guerriere;</l>
+                    <l n="1.1.5">Alme d’eroi rimasti pasto indegno</l>
+                    <l n="1.1.6">Di augei rapaci, e di affamate fere,</l>
+                    <l n="1.1.7">Siccome ordinò Giove, onde fra Atride</l>
+                    <l n="1.1.8">Discordia insorse, e fra ’l divin Pelide.</l>
+                </lg>
+                <lg n="1.2">
+                    <l n="1.2.1">Ma qual fu il nume, autor di quel consiglio,</l>
+                    <l n="1.2.2">Che seminò fra i due guerrier contesa,</l>
+                    <l n="1.2.3">Onde peste recò mortal periglio</l>
+                    <l n="1.2.4">A Greci tutti in tutto il campo accesa?</l>
+                    <l n="1.2.5">Ei fu di Giove, e di Latona il figlio,</l>
+                    <l n="1.2.6">Di cui restò la maestate offesa,</l>
+                    <l n="1.2.7">Quando il ministro suo con meste ciglia</l>
+                    <l n="1.2.8">Al campo andò per riscattar la figlia.</l>
+                </lg>
+                <lg n="1.3">
+                    <l n="1.3.1">Con mitra, e scettro in mano in umil atto</l>
+                    <l n="1.3.2">Crise, il sacro ministro, al campo arriva,</l>
+                    <l n="1.3.3">Traendo ampio tesor, che pel riscatto,</l>
+                    <l n="1.3.4">Supplice a’ Greci, della figlia offriva.</l>
+                    <l n="1.3.5">Presentossi al consesso, e ’l voto, e ’l patto,</l>
+                    <l n="1.3.6">Semplice, espose all’adunanza Argiva,</l>
+                    <l n="1.3.7">Così agli Atridi i sensi suoi drizzando,</l>
+                    <l n="1.3.8">Che avean de’ Greci il principal comando.</l>
+                </lg>
+                <lg n="1.4">
+                    <l n="1.4.1">Atridi invitti, e ben armati Achei,</l>
+                    <l n="1.4.2">Bramo, che vincitor di Troja siate,</l>
+                    <l n="1.4.3">E che v’accordin fausti i sommi Dei,</l>
+                    <l n="1.4.4">Che salvi, e lieti al suol natio torniate:</l>
+                    <l n="1.4.5">Ma Criseida rendetemi, e per lei</l>
+                    <l n="1.4.6">Egual prezzo, e maggior non rifiutate;</l>
+                    <l n="1.4.7">E ’l ministro del Deio, che da lontano</l>
+                    <l n="1.4.8">Saette avventa, or non vi prieghi in vano.</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
