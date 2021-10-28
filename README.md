@@ -1,4 +1,4 @@
-#rev. 0.2
+#rev. 0.3
 # euporia
 ## Presentation
 Euporia is an annotation tool based on Domain Specific Languages (DSLs). You can create the Context-Free Grammar for your DSL and generate the parser for your language. Your grammar must be named <code>Euporia</code> and the starting rule must be <code>start</code>.
